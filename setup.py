@@ -4,7 +4,7 @@ setup(
     name = "qed-seal",
     version = "0.3",
     description = "image watermarking tool",
-    url = "https://github.com/qed-software/seal",
+    url = "https://github.com/qedsoftware/seal",
     author = "QED",
     author_email = "software@qed.ai",
     license = "MIT",
